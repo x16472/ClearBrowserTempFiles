@@ -8,7 +8,7 @@
 意外發現，無論是`UTF-8 LE`還是`UTF-8 BE`編碼的`*.bat`，在全英文語言的Windows介面下都會造成無法直接開啟的問題。<br>
 Windows 10 Enterprise LTSC（企業版）如果直接下載`*.bat`類型的檔案，系統會判定為可疑檔案
 ##  參考資料
-*   [Internet Temp File Location Microsoft Edge](https://answers.microsoft.com/en-us/microsoftedge/forum/all/internet-temp-file-location-microsoft-edge/5e02121c-0bb9-4168-b876-a6d9c98655c2)
-*   [知識→隱藏在XP中的一個秘密武器，可以完整清除垃圾文件 - 狂奔](https://s7538395.pixnet.net/blog/post/29658327)
-*   [[教學]清除電腦系統垃圾bat檔《加強版》](https://wuangus.cc/教學清除電腦系統垃圾bat檔《加強版》/)
-*   [【問題】清除電腦系統垃圾bat檔的疑問](https://forum.gamer.com.tw/C.php?bsn=60030&snA=575638)
+- [x] [Internet Temp File Location Microsoft Edge](https://answers.microsoft.com/en-us/microsoftedge/forum/all/internet-temp-file-location-microsoft-edge/5e02121c-0bb9-4168-b876-a6d9c98655c2)
+- [x] [知識→隱藏在XP中的一個秘密武器，可以完整清除垃圾文件 - 狂奔](https://s7538395.pixnet.net/blog/post/29658327)
+- [ ] [[教學]清除電腦系統垃圾bat檔《加強版》](https://wuangus.cc/教學清除電腦系統垃圾bat檔《加強版》/)
+- [ ] [【問題】清除電腦系統垃圾bat檔的疑問](https://forum.gamer.com.tw/C.php?bsn=60030&snA=575638)
